@@ -18,7 +18,9 @@ The controlling part that one would wear on hand consists of an accelerometer (a
 
 On the other hand, the bot would have a receiver, a decoder (HT648L), a development board with an atmega32 microcontroller and the motors are driven using two L239D motor driver ICs.
 
-The project contributors: Ashish Arun and Jigyasu Pandey.
+The project primarily uses the open-source Arduino Software (IDE) for processing the inputs and giving the signals to actuators.
+
+Project contributors: Ashish Arun and Jigyasu Pandey.
 
 ### The Design & Look
 
