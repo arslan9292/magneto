@@ -18,6 +18,8 @@ The controlling part that one would wear on hand consists of an accelerometer (a
 
 On the other hand, the bot would have a receiver, a decoder (HT648L), a development board with an atmega32 microcontroller and the motors are driven using two L239D motor driver ICs.
 
+The project contributors: Ashish Arun and Jigyasu Pandey.
+
 ### The Design & Look
 
 ![DSC00310](https://user-images.githubusercontent.com/6632266/198821709-faaa9780-da20-494a-9bca-dfac258ffbb6.JPG)
